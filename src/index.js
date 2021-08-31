@@ -1,8 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+<<<<<<< Updated upstream
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+=======
+import App from './App';
+import reportWebVitals from './reportWebVitals';
+import 'antd/dist/antd.css'
+>>>>>>> Stashed changes
 
 ReactDOM.render(
   <React.StrictMode>
